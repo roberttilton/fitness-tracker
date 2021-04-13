@@ -25,8 +25,11 @@ const workoutSchema = new Schema({
         },
         weight: {
             type: Number,
+            required: "Enter the weight desired"
         } 
     }
 ]
 }
 ) 
+
+export default workoutSchema;

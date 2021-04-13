@@ -17,9 +17,7 @@ mongoose.connect(
       useNewUrlParser: true
     }
   );
-//  declare routes
 
-//  declare api routes
 app.use(routes);
 
 app.listen(PORT, () =>
