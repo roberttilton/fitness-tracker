@@ -1,4 +1,3 @@
 # Fitness Tracker
 
-
-do the models, and do the routing, everything else is done
+For this assignment, I built an application that allows the user to track what workouts they are trying to fit into their routine.
