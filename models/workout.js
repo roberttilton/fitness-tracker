@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const { stringify } = require("node:querystring");
 const Schema = mongoose.Schema;
 
 const workoutSchema = new Schema({
